@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Go and Kubernetes.
+- 💬 Ask me about getting started with Docker and application containers.
+- 📫 How to reach me: my DMs are open!
+- ⚡ Fun fact: WSL2 makes 2020 the year of Linux on the desktop don't @ me.
+
+
 <!--
 **ryanbarkley/ryanbarkley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
