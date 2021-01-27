@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Go and Kubernetes.
-- 💬 Ask me about getting started with Docker and application containers.
+- 🌱 I’m currently learning Clojure and Go.
+- 💬 Ask me about getting started with React, TypeScript, or Docker.
 - 📫 How to reach me: my DMs are open!
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: WSL2 makes 2020 the year of Linux on the desktop don't @ me.
 
 
