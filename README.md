@@ -4,7 +4,7 @@
 - 💬 Ask me about getting started with React, TypeScript, or Docker.
 - 📫 How to reach me: my DMs are open!
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: WSL2 meant 2020 was the year of Linux on the desktop don't @ me.
+- ⚡ Fun fact: WSL2 means 2020 was the year of Linux on the desktop don't @ me.
 
 
 <!--
