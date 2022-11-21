@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Clojure.
+- 🌱 These days I'm primarily working with Go + Kubernetes.
 - 💬 Ask me about getting started with React, TypeScript, or Docker.
 - 📫 How to reach me: my DMs are open!
 - 😄 Pronouns: he/him
